@@ -1,0 +1,21 @@
+/**/
+#MAP
+{
+    width:100%;
+    height:70%;
+    margin: auto;
+}
+
+#START
+{
+    margin:8px; padding:8px; border:1px solid black;
+    width:60%;
+    background-color:#dcdcdc;
+}
+
+#GOAL
+{
+    margin:8px; padding:8px; border:1px solid black;
+    width:60%;
+    background-color:#dcdcdc;
+}
